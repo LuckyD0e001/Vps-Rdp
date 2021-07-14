@@ -1,0 +1,3 @@
+Create a vps rdp, for 6 hours
+
+for tests...
